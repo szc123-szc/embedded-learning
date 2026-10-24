@@ -7,3 +7,12 @@ x64/
 *.pdb
 *.ilk
 *.user
+.vs/
+Debug/
+Release/
+x64/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.vcxproj.user
